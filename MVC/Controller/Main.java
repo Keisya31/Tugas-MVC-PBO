@@ -24,8 +24,8 @@ public class Main extends JFrame {
 
     public Main() {
         // Deklarasi Method
-        setTitle("KALKULASI NILAI MAHASISWA");
-        setSize(600, 500);
+        setTitle("KONVERSI NILAI MAHASISWA");
+        setSize(1300, 700);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new GridBagLayout());
         getContentPane().setBackground(new Color(240, 248, 255));
